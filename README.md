@@ -103,3 +103,27 @@ acquired by NICE in 2007
     - Data Intelligence
 * Reasons
     - NICE Actimize already specializes in this technology, so this product generation will not require additional technology. The engineers can focus their current expertise to cater to these new products.
+---
+References
+
+https://builtin.com/fintech/regtech-companies
+
+https://www.datanyze.com/market-share/fraud-detection-and-prevention--355/nice-actimize-market-share
+
+https://www.apiax.com/regtech-guide/ 
+
+https://stackshare.io/nice-actimize/nice-actimize
+
+https://www.niceactimize.com/press-releases/nice-actimize-positioned-as-overall-technology-leader-in-the-2020-quadrant-knowledge-trade-surveillance-and-monitoring-report-335/
+
+https://enlyft.com/tech/products/nice-actimize
+
+https://www.crunchbase.com/organization/actimize/
+
+https://innovationisrael.org.il/en/success-story/nice-actimize
+
+https://www.niceactimize.com/xsight/
+
+https://www.niceactimize.com/xceed/
+
+https://www.crunchbase.com/organization/actimize/company_financials
