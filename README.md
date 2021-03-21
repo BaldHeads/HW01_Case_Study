@@ -47,7 +47,7 @@ acquired by NICE in 2007
 
 * Current Tech Utilization
 
-   These three technologies combined are used in the software providing AML, Fraud Detection, and risk & compliance ease.
+   These three technologies combined are used in the software providing AML, Fraud Detection, and risk & compliance ease. Some examples of products they have created include Xceed and X-Sight.
     - Advanced Machine Learning 
     - Trade Surveillance 
     - Data Intelligence
@@ -57,7 +57,17 @@ acquired by NICE in 2007
 ## Landscape
 
 * Domain: RegTech
-* 5-10y Trends
+* 2020 Trends
+
+    - From https://www.apiax.com/regtech-guide/   :
+        1. Cloud becomes core to deliveries in regulatory compliance
+        2. Unabated digital transformation of regulation
+        3. RegTech helps strategise the regulatory impact of business decisions
+        4. RegTech solutions to reinforce banking compliance in Singapore
+        5. Tax-efficient investment support for businesses — the new RegTech tour de force
+        6. RegTech finds wide adoption by the Regulators
+        7. Smart tools for cross-border risk management
+
 * Major Companies in RegTech
     - Chainalysis
     - ComplyAdvantage
@@ -72,3 +82,5 @@ acquired by NICE in 2007
     - Elliptic
     - BehavioSec
 
+## Results
+## Recommendations
