@@ -44,3 +44,31 @@ acquired by NICE in 2007
     - complete coverage, precision detection, and intelligent investigations
     - commitment to investment and development of AI
     - reduction of false positives thru differentiated real-time data sourcing
+
+* Current Tech Utilization
+
+   These three technologies combined are used in the software providing AML, Fraud Detection, and risk & compliance ease.
+    - Advanced Machine Learning 
+    - Trade Surveillance 
+    - Data Intelligence
+
+ 
+
+## Landscape
+
+* Domain: RegTech
+* 5-10y Trends
+* Major Companies in RegTech
+    - Chainalysis
+    - ComplyAdvantage
+    - Ascent Regtech
+    - Forter
+    - Hummingbird
+    - Continuity
+    - Trunomi
+    - Ayasdi
+    - IdentiyMind
+    - Sift Science
+    - Elliptic
+    - BehavioSec
+
