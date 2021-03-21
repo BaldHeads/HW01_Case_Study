@@ -83,4 +83,16 @@ acquired by NICE in 2007
     - BehavioSec
 
 ## Results
+* Business Impact
+    - The companies using NICE Actimize have significantly improved issues related to compliance and risk reduction. 
+* Key Indicators of Success & where NICE Actimize sits
+    - A major KPI for RegTech is the instances of compliance issues relative to previous years. Increases in instances represent the industry falling behind, whereas decreases represent positive or neutral growth in the industry. NICE Actimize has helped many companies reduce instances of regulatory issues related to compliance and risk.
+* How is your company performing relative to competitors in the same domain?
+    - NICE Actimize is a leader in the industry for its comprehensive and efficient products, a fact reflected in the 2020 Quadrant Knowledge Trade Surveillance & Monitoring Report. https://www.niceactimize.com/press-releases/nice-actimize-positioned-as-overall-technology-leader-in-the-2020-quadrant-knowledge-trade-surveillance-and-monitoring-report-335/
+
+
 ## Recommendations
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Why do you think that offering this product or service would benefit the company? 
+* What technologies would this additional product or service utilize? 
+* Why are these technologies appropriate for your solution?
