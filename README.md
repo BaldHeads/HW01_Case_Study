@@ -87,12 +87,19 @@ acquired by NICE in 2007
     - The companies using NICE Actimize have significantly improved issues related to compliance and risk reduction. 
 * Key Indicators of Success & where NICE Actimize sits
     - A major KPI for RegTech is the instances of compliance issues relative to previous years. Increases in instances represent the industry falling behind, whereas decreases represent positive or neutral growth in the industry. NICE Actimize has helped many companies reduce instances of regulatory issues related to compliance and risk.
-* How is your company performing relative to competitors in the same domain?
-    - NICE Actimize is a leader in the industry for its comprehensive and efficient products, a fact reflected in the 2020 Quadrant Knowledge Trade Surveillance & Monitoring Report. https://www.niceactimize.com/press-releases/nice-actimize-positioned-as-overall-technology-leader-in-the-2020-quadrant-knowledge-trade-surveillance-and-monitoring-report-335/
+* Performance Relative to Competition
+    - NICE Actimize is a leader in the industry for its comprehensive and efficient products, a fact reflected in the 2020 Quadrant Knowledge Trade Surveillance & Monitoring Report.
+     https://www.niceactimize.com/press-releases/nice-actimize-positioned-as-overall-technology-leader-in-the-2020-quadrant-knowledge-trade-surveillance-and-monitoring-report-335/
 
 
 ## Recommendations
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-* Why do you think that offering this product or service would benefit the company? 
-* What technologies would this additional product or service utilize? 
-* Why are these technologies appropriate for your solution?
+* Advised Changes
+    - This company has clearly established itself within the banking and computer software industry, mainly inside the United States. An apparent area to expand development would be adding other country specific as well as cross-border RegTech products. 
+* Reasons
+    - NICE Actimize has already established standards for compliance management, so adding country specific products should mainly only require knowledge in these additional regulations. It may be possible to automate the resource gathering to compile these new regulations. The rest of the work required is just adapting those new regulations to current systems and then improving them with the rest of the products simultaneously.
+* Tech needed to Implement Changes
+    - AI- Advanced Machine Learning
+    - Trade Surveillance
+    - Data Intelligence
+* Reasons
+    - NICE Actimize already specializes in this technology, so this product generation will not require additional technology. The engineers can focus their current expertise to cater to these new products.
